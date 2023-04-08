@@ -1,0 +1,2 @@
+# 概述
+本模块主要是讲述shardingjdbc入门：使用sharingjdbc进行水平分表操作ß
